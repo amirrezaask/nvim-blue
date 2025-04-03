@@ -1,3 +1,4 @@
+vim.cmd.highlight("clear")
 vim.g.color_name = "nvim-blue"
 
 vim.api.nvim_set_hl(0, "htmlBoldUnderline", {})
