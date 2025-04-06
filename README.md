@@ -1,6 +1,7 @@
 # Nvim-Blue
 
-A dark blue theme for Neovim.
+A dark blue theme for Neovim inspired by @norcalli theme from this video:
+[What can't you do in neovim ?](https://youtu.be/78WrSwEKNuM?si=saiasIaQS6zypwEi)
 
 ## Screenshots
 
