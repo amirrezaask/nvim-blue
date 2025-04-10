@@ -313,6 +313,7 @@ vim.api.nvim_set_hl(0, '@lsp.type.macro', { bg = 'none', fg = 'none', link = "@c
 vim.api.nvim_set_hl(0, 'WinBarNC', { bg = '#07080D', fg = '#9B9EA4' })
 vim.api.nvim_set_hl(0, 'FloatTitle', { bg = 'none', fg = 'none', link = "Title" })
 vim.api.nvim_set_hl(0, 'FloatFooter', { bg = 'none', fg = 'none', link = "FloatTitle" })
+vim.api.nvim_set_hl(0, 'Winbar', { link = "StatusLine" })
 vim.api.nvim_set_hl(0, 'StatusLineTerm', { bg = 'none', fg = 'none', link = "StatusLine" })
 vim.api.nvim_set_hl(0, 'StatusLineTermNC', { bg = 'none', fg = 'none', link = "StatusLineNC" })
 vim.api.nvim_set_hl(0, 'RedrawDebugNormal', { bg = 'none', fg = 'none' })
